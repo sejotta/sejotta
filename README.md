@@ -8,7 +8,7 @@
   Robotics &amp; Automation Engineering student at <strong>EINA · University of Zaragoza</strong>,<br />
   on exchange in Mechanical Engineering at <strong>Nanjing Tech University</strong>.<br />
   For the last 3+ years I've been building autonomous mobile robots end-to-end —<br />
-  mechanics, custom PCBs, embedded firmware and the control code that ties it together.
+  embedded firmware and the control code that ties it together.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="https://github.com/sejotta"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sejotta-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center"><sub>Zaragoza, ES ↔ Nanjing, CN · IEEE SB UZ board · EINA Agenda 2030 committee</sub></p>
+<p align="center"><sub>Zaragoza, ES ↔ Nanjing, CN </sub></p>
 
 ## Tech stack
 
@@ -48,10 +48,10 @@
 
 | Area | In practice |
 | :--- | :--- |
-| **Embedded & electronics** | PCB design and bring-up (KiCad, Altium) · power electronics and motor drivers · sensor integration: ToF, IMU, encoders · I²C, SPI, UART · wireless links (Wi-Fi, Bluetooth, LoRa) |
+| **Embedded & electronics** | PCB bring-up (KiCad, Altium) · power electronics · sensor integration · I²C, SPI, UART · wireless links (Wi-Fi, Bluetooth, LoRa) |
 | **Control & robotics** | PID/PI with anti-windup · differential-drive odometry and kinematics · finite state machines · hierarchical control · sensor fusion · SLAM fundamentals · LIDAR localisation |
 | **Perception & ML** | OpenCV · feature matching (SIFT/ORB, SuperPoint/SuperGlue) · RANSAC, homography, epipolar geometry, PnP · optical flow · CNNs and transfer learning (PyTorch/Keras) · on-device TinyML |
-| **Software** | Python (NumPy, OpenCV, Tkinter, Plotly) · C/C++ for embedded · MATLAB · SQL · Linux · Git · PlatformIO · CI for firmware |
+| **Software** | Python (NumPy, OpenCV, Tkinter, Plotly) · C/C++ for embedded · MATLAB · SQL · Linux · Git · PlatformIO  |
 | **Mechanical design** | SolidWorks and Fusion 360 · FDM 3D printing · technical drawing · mechanical integration |
 | **Working with people** | IEEE SB UZ board · mentoring students · repair workshops · outreach to schools and the public · project and budget management |
 | **Languages I speak** | Spanish native · English B2 · Mandarin HSK 2 |
@@ -68,9 +68,9 @@
 
 ## Selected projects
 
-- **JRG-25 → JRG-26 — autonomous mobile robot** (10th ASTI Robotics Challenge / ARC 2026, team *Mesa Paso 43*) — finalist and EINA-Proyecta winner with JRG-25; its 2026 evolution, JRG-26, won the **Best Performance Award (1st prize)**. Custom PCB, ToF/IMU/encoder integration, embedded C++ with PID + anti-windup, differential odometry, FSM, layered firmware with CI and a Python/Tkinter GUI.
-- **S.P.I.T. — early wildfire prevention** (WED 2026, team *InnoviZar*) — UAV RGB + thermal sensing, on-board TinyML inference, PLC control with pressure/flow feedback and hydraulic sizing.
-- **AGROPLANT** (NASA Space Apps 2025) — hybrid physical-digital agricultural game: RFID + Wi-Fi hardware built on open scientific datasets.
+- **JRG-25 → JRG-26 — autonomous mobile robot** (10th ASTI Robotics Challenge / ARC 2026, team w/ *Carlos Rios, Diego Lopez, Martin Rincon*) — finalist and EINA-Proyecta winner with JRG-25; its 2026 evolution, JRG-26, won the **Best Performance Award (1st prize)**. Contains Custom PCB, ToF/IMU/encoder integration, embedded C++ with PID + anti-windup, differential odometry, FSM, layered firmware with CI and a Python/Tkinter GUI.
+- **S.P.I.T. — early wildfire prevention** (WED 2026, team *InnoviZar*) — *Theorically Designed* -  UAV RGB + thermal sensing, on-board TinyML inference, PLC control with pressure/flow feedback and hydraulic sizing.
+- **AGROPLANT** (NASA Space Apps 2025), team w/*Diego Lopez, Martin Rincon* — hybrid physical-digital agricultural game: RFID + Wi-Fi hardware built on open NASA's scientific datasets.
 
 ## Background
 
