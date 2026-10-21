@@ -83,7 +83,6 @@
 
 > 🏆 **Winner — 1st Prize · Best Performance Award** · JRG-26 at the 10th ASTI Robotics Challenge (ARC 2026)
 
-- **Winner**, 1st EINA-Proyecta competition (Electronics & Automation) · **Finalist**, ARC 2026 with JRG-25
 - NASA Space Apps 2025 · WED 2026 hackathon
 - Outreach stand at the XVII Engineering & Architecture Week (Mar 2026)
 
