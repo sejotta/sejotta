@@ -68,7 +68,7 @@
 
 ## Selected projects
 
-- **JRG-25 → JRG-26 — autonomous mobile robot** (team *Mesa Paso 43*) — finalist at ARC 2026 and EINA-Proyecta winner with JRG-25; its 2026 evolution, JRG-26, took the **Best Performance Award, 1st prize**. Custom PCB, ToF/IMU/encoder integration, embedded C++ with PID + anti-windup, differential odometry, FSM, layered firmware with CI and a Python/Tkinter GUI.
+- **JRG-25 → JRG-26 — autonomous mobile robot** (10th ASTI Robotics Challenge / ARC 2026, team *Mesa Paso 43*) — finalist and EINA-Proyecta winner with JRG-25; its 2026 evolution, JRG-26, won the **Best Performance Award (1st prize)**. Custom PCB, ToF/IMU/encoder integration, embedded C++ with PID + anti-windup, differential odometry, FSM, layered firmware with CI and a Python/Tkinter GUI.
 - **S.P.I.T. — early wildfire prevention** (WED 2026, team *InnoviZar*) — UAV RGB + thermal sensing, on-board TinyML inference, PLC control with pressure/flow feedback and hydraulic sizing.
 - **AGROPLANT** (NASA Space Apps 2025) — hybrid physical-digital agricultural game: RFID + Wi-Fi hardware built on open scientific datasets.
 
@@ -81,9 +81,9 @@
 
 **Recognition**
 
-> 🏆 **Winner — 1st Prize · Best Performance Award** · JRG-26 (2026)
+> 🏆 **Winner — 1st Prize · Best Performance Award** · JRG-26 at the 10th ASTI Robotics Challenge (ARC 2026)
 
-- **Winner**, 1st EINA-Proyecta competition (Electronics & Automation) · **Finalist**, ARC 2026
+- **Winner**, 1st EINA-Proyecta competition (Electronics & Automation) · **Finalist**, ARC 2026 with JRG-25
 - NASA Space Apps 2025 · WED 2026 hackathon
 - Outreach stand at the XVII Engineering & Architecture Week (Mar 2026)
 
