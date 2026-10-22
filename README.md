@@ -26,11 +26,8 @@
   <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737?style=flat">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-2E2E2E?style=flat&logo=linux&logoColor=white">
   <br />
-  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white">
   <img alt="Altium" src="https://img.shields.io/badge/Altium-B54708?style=flat">
   <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-D71920?style=flat">
   <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white">
@@ -53,15 +50,15 @@
 ## Background
 
 **Education**
-- B.Sc. Electronic & Automation Engineering — EINA, University of Zaragoza · 2022–2027 (expected)
-- Exchange year, Mechanical Engineering — Nanjing Tech University · 2026–27, scholarship on academic record
-- Blended Intensive Program, Global Value Chain in Bike Manufacturing — Hochschule Esslingen · Mar–Apr 2026
+- B.Sc. Electronic & Automation Engineering — EINA, University of Zaragoza 
+- Exchange year, Mechanical Engineering — Nanjing Tech University 
+- Blended Intensive Program, Global Value Chain in Bike Manufacturing — Hochschule Esslingen 
 
 **Recognition**
 
 > 🏆 **Winner — 1st Prize · Best Performance Award** · JRG-26 at the 10th ASTI Robotics Challenge (ARC 2026)
 
-- NASA Space Apps 2025 · WED 2026 hackathon
-- Outreach stand at the XVII Engineering & Architecture Week (Mar 2026)
+- Best Design Award NASA Space Apps, Zaragoza 2025 
+- Outreach stand at the XVII Engineering & Architecture Week (Mar 2025)
 
 <sub>Most of what I know came from a workshop, a competition, or asking "what if I try it?"</sub>
