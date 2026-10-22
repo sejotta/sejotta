@@ -44,28 +44,6 @@
   <img src="./assets/stack.svg" width="100%" alt="Languages I work in and skills by area" />
 </p>
 
-## What I can actually do
-
-| Area | In practice |
-| :--- | :--- |
-| **Embedded & electronics** | PCB bring-up (KiCad, Altium) · power electronics · sensor integration · I²C, SPI, UART · wireless links (Wi-Fi, Bluetooth, LoRa) |
-| **Control & robotics** | PID/PI with anti-windup · differential-drive odometry and kinematics · finite state machines · hierarchical control · sensor fusion · SLAM fundamentals · LIDAR localisation |
-| **Perception & ML** | OpenCV · feature matching (SIFT/ORB, SuperPoint/SuperGlue) · RANSAC, homography, epipolar geometry, PnP · optical flow · CNNs and transfer learning (PyTorch/Keras) · on-device TinyML |
-| **Software** | Python (NumPy, OpenCV, Tkinter, Plotly) · C/C++ for embedded · MATLAB · SQL · Linux · Git · PlatformIO  |
-| **Mechanical design** | SolidWorks and Fusion 360 · FDM 3D printing · technical drawing · mechanical integration |
-| **Working with people** | IEEE SB UZ board · mentoring students · repair workshops · outreach to schools and the public · project and budget management |
-| **Languages I speak** | Spanish native · English B2 · Mandarin HSK 2 |
-
-## Experience
-
-**R&D Electronic Engineer — Internship** · Escribano Mechanical & Engineering (EM&E Group / AUNAV) · Jun–Aug 2025
-- PCB design in Altium, power-supply design and PCB error correction for robotic systems
-- Assembly, testing and validation inside an industrial R&D team
-
-**Board Member — Electronic Rocketry & Robotics** · IEEE Student Branch UZ · Jan 2026 – present
-- Alunizar rocketry: in-flight data acquisition and a solid-motor test bench (thermocouples, 24-bit ADC, LoRa telemetry)
-- Robotics section: 10th ASTI Robotics Challenge, mentoring students on hands-on embedded and design work
-
 ## Selected projects
 
 - **JRG-25 → JRG-26 — autonomous mobile robot** (10th ASTI Robotics Challenge / ARC 2026, team w/ *Carlos Rios, Diego Lopez, Martin Rincon*) — finalist and EINA-Proyecta winner with JRG-25; its 2026 evolution, JRG-26, won the **Best Performance Award (1st prize)**. Contains Custom PCB, ToF/IMU/encoder integration, embedded C++ with PID + anti-windup, differential odometry, FSM, layered firmware with CI and a Python/Tkinter GUI.
