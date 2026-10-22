@@ -44,7 +44,6 @@
 ## Selected projects
 
 - **JRG-25 → JRG-26 — autonomous mobile robot** (10th ASTI Robotics Challenge / ARC 2026, team w/ *Carlos Rios, Diego Lopez, Martin Rincon*) — finalist and EINA-Proyecta winner with JRG-25; its 2026 evolution, JRG-26, won the **Best Performance Award (1st prize)**. Contains Custom PCB, ToF/IMU/encoder integration, embedded C++ with PID + anti-windup, differential odometry, FSM, layered firmware with CI and a Python/Tkinter GUI.
-- **S.P.I.T. — early wildfire prevention** (WED 2026, team *InnoviZar*) — *Theorically Designed* -  UAV RGB + thermal sensing, on-board TinyML inference, PLC control with pressure/flow feedback and hydraulic sizing.
 - **AGROPLANT** (NASA Space Apps 2025), team w/*Diego Lopez, Martin Rincon* — hybrid physical-digital agricultural game: RFID + Wi-Fi hardware built on open NASA's scientific datasets.
 
 ## Background
